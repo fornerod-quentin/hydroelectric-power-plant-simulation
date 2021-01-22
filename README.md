@@ -1,11 +1,11 @@
-#Description
+# Description
 This project has been developped by four students of the HEIG-VD in Switzerland.
 - Fornerod Quentin : Software and graphic interface
 - Hugi Samuel : Research and software
 - Rodriguez Michaël : Research and modelling
-- VIeux Adriano : Research and group coordination
+- Vieux Adriano : Research and group coordination
 
-#Sources
+# Sources
 
 Sources images barrage :
 https://www.edf.fr/sites/default/files/mediatheque/barrage_picto1.png
